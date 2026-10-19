@@ -1,1 +1,1 @@
-﻿window.AQUASENSE_WS_URL = "wss://classical-finally-cycles-lists.trycloudflare.com/ws/water";
+﻿window.AQUASENSE_WS_URL = "wss://cooper-representative-name-received.trycloudflare.com/ws/water";
