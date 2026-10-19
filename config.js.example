@@ -1,0 +1,2 @@
+// Set this to the public, secure WebSocket URL for Node-RED when it is ready.
+window.AQUASENSE_WS_URL = "wss://YOUR-NODERED-HOST/ws/water";
